@@ -1,0 +1,2 @@
+# Techno-savy
+Dear readers, these ASP.NET MVC Interview Questions have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of ASP.NET MVC. As per my experience good interviewers hardly plan to ask any particular question during your interview, normally questions start with some basic concept of the subject and later they continue based on further discussion 
